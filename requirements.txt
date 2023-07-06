@@ -1,6 +1,6 @@
 dbt-core==1.1.1
 dbt-databricks==1.1.0
 diff_cover==6.5.1
-sqlfluff==1.1.0
+sqlfluff==2.1.2
 sqlfluff-templater-dbt==1.1.0
 flake8==5.04
